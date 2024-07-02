@@ -125,3 +125,7 @@ body {
     background-color: var(--botao-azul-efeito);
     color: var(--cor-de-fundo);
 }
+.img-lista{
+    width:100px ;
+    
+}
